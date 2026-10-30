@@ -1,0 +1,10 @@
+.DS_Store
+*.pem
+*.key
+*.env
+*.secret
+charts/*/charts/
+values.local.yaml
+kubeconfig*
+__pycache__/
+*.pyc
